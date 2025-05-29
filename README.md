@@ -21,7 +21,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,bootstrap, jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,bootstrap" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
   </a>
   <a href="http://t.me/Usernamly" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>" />
+  </a>
   </a>
 </p>
 
