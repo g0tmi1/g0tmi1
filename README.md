@@ -1,4 +1,4 @@
-<!-- Profile README for GitHub: Ashu_0143 -->
+9<!-- Profile README for GitHub: Ashu_0143 -->
 
 <h1 align="center">Hey 👋 I'm Ashu</h1>
 <h3 align="center">💻 Student | 🛠️ Developer in Progress | 🚀 Tech Explorer</h3>
@@ -46,9 +46,6 @@
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/Ashu-0143" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Ashu-0143-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="http://t.me/Usernamly" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
