@@ -12,17 +12,16 @@
 ## 🔥 About Me
 
 - 🎓 Computer Engineering Student  
-- 🔨 Currently working with **Flask + MongoDB**  
+- 🔨 Currently working with **Termux & Python**  
 - 💡 Love turning ideas into real working projects  
-- 🎯 Goal: Become a **Full Stack Developer**  
-- ⚡ Fun Fact: I fix bugs... that I accidentally created 😅  
-
+- 🎯 Goal: Become a **Full Stack Developer**
+- 
 ---
 
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,bootstrap, jquery" />
 </p>
 
 ---
@@ -38,9 +37,9 @@
 
 ## 🚧 Current Focus
 
-- 🧠 Learning: Flask, MongoDB, API Development  
-- 🔨 Projects: To-Do App, Portfolio Website  
-- 📚 Goal: Build 5 solid projects before the year ends 💪  
+- 🧠 Learning: Flask, MongoDB, Python, Termux 
+- 🔨 Projects: To-Do webpage  
+- 📚 Goal: Build 5 solid projects before the year ends fr
 
 ---
 
@@ -50,8 +49,9 @@
   <a href="https://github.com/Ashu_0143" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Ashu_0143-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge&logo=firefox-browser" />
+  <a href="http://t.me/Usernamly" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>" />
   </a>
 </p>
 
