@@ -1,9 +1,9 @@
 <!-- 🔥 GitHub Profile README for Ashu-0143 -->
 
-<h1 align="center">Hey there 👋, I'm Ashu</h1>
+<h1 align="center">Hey there ❣, I'm Ashu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1CF7FF&center=true&vCenter=true&width=435&lines=Web+Designer+%2F+Front-End+Learner+%F0%9F%92%BB;Exploring+Flask+%2B+MongoDB+Projects;Passionate+About+Clean+UI%2FUX;Keep+Improving+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1CF7FF&center=true&vCenter=true&width=435&lines=Web+Designer+%2F+Front-End+Learner+%F0%9F%92%BB;Exploring+Python+%2B+Termux+Projects;Passionate+About+Clean+UI%2FUX;Keep+Improving+%E2%9A%A1" />
 </p>
 
 ---
@@ -13,9 +13,9 @@
 - 🧑‍🎓 Student passionate about **Web Development & UI**  
 - 💼 Building projects using **HTML, CSS, JS, jQuery, Bootstrap**  
 - 🎯 Always leveling up skills in **design + development**  
-- 🛠️ Exploring **Flask + MongoDB** on the backend  
+- 🛠️ Exploring **Python + Termux** on the backend  
 - 🎨 Bonus: I’ve touched **Photoshop (0.7)** too! 😄  
-- 🧠 Motto: “Design like an artist, code like an engineer.”
+- 🧠 Motto: "Fuel your dreams with code."
 
 ---
 
