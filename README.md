@@ -29,8 +29,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashu_0143&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashu_0143&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=g0tmi1&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=g0tmi1&theme=radical" height="165" />
 </p>
 
 ---
@@ -46,8 +46,8 @@
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/Ashu_0143" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Ashu_0143-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/g0tmi1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-g0tmi1-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="http://t.me/Usernamly" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
