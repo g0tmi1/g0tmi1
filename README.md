@@ -1,60 +1,67 @@
-<!-- Profile README for GitHub: Ashu_0143 -->
+<!-- 🔥 GitHub Profile README for Ashu-0143 -->
 
-<h1 align="center">Hey 👋 I'm Ashu</h1>
-<h3 align="center">💻 Student | 🛠️ Developer in Progress | 🚀 Tech Explorer</h3>
+<h1 align="center">Hey there 👋, I'm Ashu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Learning+Web+Development;Building+cool+projects;Exploring+Flask+%26+MongoDB;Love+to+code+and+create" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1CF7FF&center=true&vCenter=true&width=435&lines=Web+Designer+%2F+Front-End+Learner+%F0%9F%92%BB;Exploring+Flask+%2B+MongoDB+Projects;Passionate+About+Clean+UI%2FUX;Keep+Improving+%E2%9A%A1" />
 </p>
 
 ---
 
-## 🔥 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student  
-- 🔨 Currently working with **Termux & Python**  
-- 💡 Love turning ideas into real working projects  
-- 🎯 Goal: Become a **Full Stack Developer**
-- 
+- 🧑‍🎓 Student passionate about **Web Development & UI**  
+- 💼 Building projects using **HTML, CSS, JS, jQuery, Bootstrap**  
+- 🎯 Always leveling up skills in **design + development**  
+- 🛠️ Exploring **Flask + MongoDB** on the backend  
+- 🎨 Bonus: I’ve touched **Photoshop (0.7)** too! 😄  
+- 🧠 Motto: “Design like an artist, code like an engineer.”
+
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,github,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashu-0143&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashu-0143&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashu-0143&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashu-0143&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-0143&layout=compact&theme=tokyonight" height="140"/>
 </p>
 
 ---
 
-## 🚧 Current Focus
-
-- 🧠 Learning: Flask, MongoDB, Python, Termux 
-- 🔨 Projects: To-Do webpage  
-- 📚 Goal: Build 5 solid projects before the year ends fr
-
----
-
-## 📬 Let's Connect!
+## 🧭 Contact Me
 
 <p align="center">
   <a href="https://github.com/Ashu-0143" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Ashu-0143-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Ashu--0143-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="http://t.me/Usernamly" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <a href="https://t.me/Usernamly" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" />
   </a>
 </p>
 
 ---
 
-<p align="center">Thanks for stopping by! 🌟<br>Keep learning. Keep building. 💻</p>
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashu-0143&style=for-the-badge&color=brightgreen" />
+</p>
+
+---
+
+<p align="center">
+  💬 *"Craft. Code. Create."*<br><br>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+</p>
